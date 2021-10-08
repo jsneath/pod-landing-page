@@ -10,3 +10,19 @@ p {
   display: flex;
   justify-content: space-around;
 }
+
+.card {
+  margin-right: 500px;
+}
+.container {
+  background-image: url("./assets/desktop/image-host.jpg");
+  background-color: #121725;
+  background-repeat: no-repeat;
+  background-position: center right;
+  align-items: center;
+  height: 776px;
+ }
+
+ body {
+  background-color: #121725;
+ }
